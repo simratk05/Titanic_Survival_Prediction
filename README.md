@@ -4,6 +4,7 @@ This project focuses on predicting the survival rate of passengers aboard the Ti
 1.Logistic Regression Model
 2.Naive Bayes Classifier Model
 Both models achieved an accuracy of 78.19%.
+**DATASET-** https://www.kaggle.com/c/titanic
 
 # Project Overview
 
@@ -42,6 +43,9 @@ Both models achieved an accuracy of 78.19% on the test set. Detailed performance
 
 The project was implemented using Python and the following libraries:
 **pandas:** Data manipulation and analysis
+
 **numpy:** Numerical computations
+
 **scikit-learn:** Machine learning models and evaluation metrics
+
 **matplotlib / seaborn:** Data visualization
